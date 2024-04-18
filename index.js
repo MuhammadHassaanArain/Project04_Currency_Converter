@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 console.log("\n\nCurrency converter.\n");
 let currency_value = {
